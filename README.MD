@@ -1,4 +1,4 @@
-> My code for the Git project
+> My innocent little change
 
 ## I'm in the feature branch
 
